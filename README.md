@@ -1,6 +1,8 @@
 # praktikum-git-kelompok
 praktikum kolaborasi git kelompok
+
 Ketua Kelompok: Maria Yovena Amun
+
 Anggota kelompok :
 1. Maria Fitriana Menge
 2. Apolonia ALexandria Ongge
