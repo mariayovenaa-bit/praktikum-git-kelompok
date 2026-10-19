@@ -1,15 +1,16 @@
 # praktikum-git-kelompok
-praktikum kolaborasi git kelompok- versi sandra
+
+praktikum kolaborasi git kelompok
 
 Ketua Kelompok: Maria Yovena Amun
 
-Anggota kelompok :
+Anggota Kelompok:
+
 1. Maria Fitriana Menge
-2. Apolonia ALexandria Ongge
+2. Apolonia Alexandria Ongge
 
 Kontribusi Maria: Membuat modul salam untuk praktikum kolaborasi Git.
 
 Kontribusi Fitri: Membantu mengerjakan praktikum kolaborasi Git.
 
 Kontribusi Sandra: Membantu mengerjakan praktikum kolaborasi Git.
-
