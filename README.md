@@ -7,3 +7,7 @@ Anggota Kelompok:
 2. Apolonia alexandria Ongge
 
 Kontribusi Fitri: Saya membantu mengerjakan praktikum kolaborasi Git.
+
+Kontribusi Maria: Membuat modul salam untuk praktikum kolaborasi Git.
+
+Kontribusi Sandra: Membantu mengerjakan praktikum kolaborasi Git.
