@@ -1,5 +1,5 @@
 # praktikum-git-kelompok
-praktikum kolaborasi git kelompok
+praktikum kolaborasi git kelompok- versi sandra
 
 Ketua Kelompok: Maria Yovena Amun
 
